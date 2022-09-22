@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="altura_em_metros_1_60">Altura em metros (1,60)</string>
+    <string name="peso_em_kg_60">Peso em KG (60,5)</string>
+    <string name="Botaocalcular">CALCULAR</string>
+    <string name="DESCRIÇÃO">Imagem com o medidor de IMC</string>
+    <string name="magreza_grave">0</string>
+    <string name="IntervaloMagrezaGrave"><![CDATA[<16]]></string>
+    <string name="magreza_moderada">Magreza Moderada</string>
+    <string name="_16_0_16_9">16.0 – 16.9</string>
+    <string name="magreza_leve">Magreza Leve</string>
+    <string name="_17_0_18_4">17.0 – 18.4</string>
+    <string name="saudavel">Saudavel</string>
+    <string name="_18_5_24_9">18.5 – 24.9</string>
+    <string name="intervalo_magreza_grave">Magreza Grave</string>
+    <string name="intervalo_obesidade_grau_III">>39.9</string>
+    <string name="_16"><![CDATA[<16]]></string>
+    <string name="imc">IMC</string>
+</resources>
